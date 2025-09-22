@@ -75,8 +75,5 @@ lib/
 
 ## 👨‍💻 Author
 
-* Developed by [Your Name](https://github.com/Khaled-Kamal)
+* Developed by [Khaled Kamal](https://github.com/Khaled-Kamal)
 * Explanation of how the application works on YouTube : https://youtu.be/_AEQLjUb2Ro?si=X7YCYp9xiyHupqtT
-
-* ؤاش
-
