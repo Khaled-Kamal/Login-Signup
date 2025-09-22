@@ -5,9 +5,10 @@ A simple Flutter project that provides basic **Authentication Screens** (Welcome
 ## 📸 Screenshots
 | Welcome | Login | Signup |
 |---------|-------|--------|
-| ![Welcome](assets/welcome.png) | ![Login](assets/top.png) | ![Signup](assets/top.png) |
+| ![Welcome](<img width="389" height="756" alt="Image" src="https://github.com/user-attachments/assets/5b1b5845-9ce2-4d1b-9b69-62d0383802db" />
+) | ![Login](<img width="375" height="751" alt="Image" src="https://github.com/user-attachments/assets/5c149e8b-d2b4-4d15-a4c2-f0c32fe80673" />
+) | ![Signup](<img width="377" height="751" alt="Image" src="https://github.com/user-attachments/assets/02fce7bf-1059-4839-b389-24eed410fa22" />) |
 
-> ⚠️ Replace the above images with real screenshots from your emulator/app for better presentation.
 
 ---
 
@@ -78,5 +79,8 @@ lib/
 
 ## 👨‍💻 Author
 
-* Developed by [Your Name](https://github.com/your-username)
+* Developed by [Your Name](https://github.com/Khaled-Kamal)
+* Explanation of how the application works on YouTube : https://youtu.be/_AEQLjUb2Ro?si=X7YCYp9xiyHupqtT
+
+* ؤاش
 
