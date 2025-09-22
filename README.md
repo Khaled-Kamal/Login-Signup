@@ -3,13 +3,9 @@
 A simple Flutter project that provides basic **Authentication Screens** (Welcome, Login, Signup) with a clean UI and custom fonts.
 
 ## 📸 Screenshots
-| Welcome | Login | Signup |
-|---------|-------|--------|
-| ![Welcome](<img width="389" height="756" alt="Image" src="https://github.com/user-attachments/assets/5b1b5845-9ce2-4d1b-9b69-62d0383802db" />
-) | ![Login](<img width="375" height="751" alt="Image" src="https://github.com/user-attachments/assets/5c149e8b-d2b4-4d15-a4c2-f0c32fe80673" />
-) | ![Signup](<img width="377" height="751" alt="Image" src="https://github.com/user-attachments/assets/02fce7bf-1059-4839-b389-24eed410fa22" />) |
 
-
+<img width="389" height="756" alt="Image" src="https://github.com/user-attachments/assets/5b1b5845-9ce2-4d1b-9b69-62d0383802db" /> <img width="375" height="751" alt="Image" src="https://github.com/user-attachments/assets/5c149e8b-d2b4-4d15-a4c2-f0c32fe80673" /><img width="377" height="751" alt="Image" src="https://github.com/user-attachments/assets/02fce7bf-1059-4839-b389-24eed410fa22" />
+ 
 ---
 
 ## 🛠 Features
