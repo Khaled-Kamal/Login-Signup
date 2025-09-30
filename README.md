@@ -83,7 +83,7 @@ lib/
 
 ## 👨‍💻 Author
 
-Developed with ❤️ by **[Khaled Kamal](https://github.com/Khaled-Kamal)**
+Developed with  by **[Khaled Kamal](https://github.com/Khaled-Kamal)**
 
 🎥 Check out the full explanation on YouTube → [Watch Here](https://youtu.be/_AEQLjUb2Ro?si=X7YCYp9xiyHupqtT)
 
